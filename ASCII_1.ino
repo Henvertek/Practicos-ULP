@@ -1,4 +1,5 @@
-  Suma de dígitos
+/*
+  Suma de dígitos https://circuits.io/circuits/4019650-the-unnamed-circuit/edit
   
   El programa insta al usuario a introducir un número
   entero desde la consola. La función num acepta long
@@ -7,7 +8,7 @@
   No sé que tipo de error ocurriría si no se modifica
   el programa. La interfaz con el usuario sólo
   permite que éste ingrese números enteros, así que
-  el error no es un -1 devuelto por la consola, sino
+  el error no es un -1 devuelto por la función, sino
   un mensaje escrito para que se intente nuevamente.
   
   Si el número es mayor a 4294967295, el resultado de
